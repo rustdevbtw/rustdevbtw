@@ -12,6 +12,7 @@
 - I use <img alt="MySQL" src="https://img.shields.io/badge/mysql-yellow.svg?&style=for-the-badge&logo=mysql&logoColor=black"/> and <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> as DataBase.
 - I use <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-black.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/> for **CI**
 - I develop Apps in <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> and <img alt="Ubuntu 20.04" src="https://img.shields.io/badge/Ubuntu%2020.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />.
+- I am the creator of <img alt="Zype Programming Language" src="https://raw.githubusercontent.com/Zype-Z/ZypeLang/main/favicon.png" align="center" />.
 
 <!---
 Rajdeep-TG/Rajdeep-TG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
