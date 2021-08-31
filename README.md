@@ -48,4 +48,4 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Rajdeep&hide_title=true&hide_border=true&langs_count=5)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Rajdeep&hide_title=true&hide_border=true&langs_count=5)
