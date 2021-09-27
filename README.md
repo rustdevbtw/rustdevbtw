@@ -50,4 +50,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82720547/134945344-e79bfb09-3508-4f1f-80a7-c7fef51ae9fd.png" alt="HackerRank Certified Python Developer" width="400" height="300">
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/82720547/134946178-362130a0-c633-4d7a-9fd8-fc915ed1a259.png" alt="HackerRank Certified JavaScript Developer" width="400" height="300">
 </p>
