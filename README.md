@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Rajdeep@tgeeks.cf**
 
-- ⚡ Fun fact **I just learnt these skills with YouTube and Google!**
+- ⚡ Fun fact **I have just learnt these skills with YouTube and Google!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -46,6 +46,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-tg&" alt="rajdeep-tg" /></p>
 
-📊 **This week I spent my time on**
+### Certificates
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Rajdeep&hide_title=true&hide_border=true&langs_count=5)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82720547/134945344-e79bfb09-3508-4f1f-80a7-c7fef51ae9fd.png" alt="HackerRank Certified Python Developer" width="400" height="300">
+</p>
