@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Malakar</h1>
 <h3 align="center">A Full Stack Python and Web Developer!</h3>
 
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/871753042591105064.png" alt="Discord" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-tg&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-tg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep-tg" alt="rajdeep-tg" /></a> </p>
