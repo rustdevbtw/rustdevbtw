@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Svelte.js, Gatsby.js and MongoDB**
 
-- 📫 How to reach me **Rajdeep@tgeeks.cf**
+- 📫 How to reach me **Rajdeep@zype.cf**
 
 - ⚡ Fun fact **I have just learnt these skills with YouTube and Google!**
 
