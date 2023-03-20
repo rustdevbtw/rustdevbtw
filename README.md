@@ -56,3 +56,5 @@
   &nbsp;
   <img src="https://user-images.githubusercontent.com/82720547/134946178-362130a0-c633-4d7a-9fd8-fc915ed1a259.png" alt="HackerRank Certified JavaScript Developer" width="400" height="300">
 </p>
+
+![Metrics](https://metrics.lecoq.io/Rajdeep-TG?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
