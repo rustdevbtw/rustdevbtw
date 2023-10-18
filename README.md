@@ -21,13 +21,6 @@
 
 - ⚡ Fun fact **I have just learnt these skills with YouTube and Google!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Moving our Website to a new Domain!](https://dev.to/electronstore_/moving-our-website-to-a-new-domain-16lo)
-- [An introduction Zype Programming Language and Compass CLI](https://medium.com/zype/an-introduction-zype-programming-language-and-compass-cli-378e1d16f313?source=rss-21bd40811db0------2)
-- [ZypeC - A free &amp; OpenSource collection of Compilers](https://dev.to/zype/zypec-a-free-opensource-collection-of-compilers-38j4)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajdeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rajdeep" height="30" width="40" /></a>
