@@ -9,17 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/rajdeeptg" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeeptg?logo=twitter&style=for-the-badge" alt="rajdeeptg" /></a> </p>
 
-- 🔭 I’m currently working on [Electron App Store](https://github.com/Electron-Store/electron-app-store)
+- 🔭 I’m currently working on [ShareImage](https://github.com/Zype-Z/ShareImage)
 
-- 🌱 I’m currently learning **React.js,Vue.js and Node.js**
+- 🌱 I’m currently learning **Rust** and **Go**.
 
 - 👯 I’m looking to collaborate on [ShareImage](https://github.com/Zype-Z/ShareImage)
 
-- 👨‍💻 All of my projects are available at [https://rajdeep.ml](https://rajdeep.ml)
-
-- 📝 I regularly write articles on [https://blog.rajdeep.ml](https://blog.rajdeep.ml)
-
-- 💬 Ask me about **Python, Svelte.js, Gatsby.js and MongoDB**
+- 💬 Ask me about **Node.JS**, **Deno**, and **Rust**
 
 - 📫 How to reach me **Rajdeep@zype.cf**
 
