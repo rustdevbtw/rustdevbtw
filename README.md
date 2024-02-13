@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Node.JS**, **Deno**, and **Rust**
 
-- 📫 How to reach me **Rajdeep@zype.cf**
+- 📫 How to reach me **rajdeepm.dev@gmail.com**
 
 - ⚡ Fun fact **I have just learnt these skills with YouTube and Google!**
 
