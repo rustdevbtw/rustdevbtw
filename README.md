@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajdeeptg" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeeptg?logo=twitter&style=for-the-badge" alt="rajdeeptg" /></a> </p>
 
-- 🔭 I’m currently working on [ShareImage](https://github.com/Zype-Z/ShareImage)
+- 🔭 I’m currently working on [ShareImage](https://github.com/regraphic/si-rs)
 
 - 🌱 I’m currently learning **Rust** and **Go**.
 
