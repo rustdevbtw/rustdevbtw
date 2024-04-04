@@ -33,17 +33,24 @@ impl rustdevbtw {
     pub fn contact() -> &'static str {
         format!{
             "E-Mail: {}
-             Discord (Username): {}",
+             Discord (Username): {}
+             X (formerly Twitter): {}",
              "rajdeepm.dev@gmail.com",
-             "@__rajdeep__"
+             "@__rajdeep__",
+             "@___rajdeep"
         }
     }
 
-    #[field("My current project")]
+    #[field("My current project(s)")]
     pub fn current_project() -> Vec<&'static str> {
         vec![
             "ShareImage <github.com/repgrahic/si-rs>"
         ]
+    }
+
+    #[field("os", i use arch, btw)]
+    pub fn os() -> &'static str {
+        "Arch Linux x86_64 with Hyprland (Wayland)"
     }
 }
 ```
